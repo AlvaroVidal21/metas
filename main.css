@@ -1,0 +1,56 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+h1{
+    text-transform: uppercase;
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+h3{
+    text-transform: capitalize;
+}
+
+li{
+    margin: auto;
+    text-align: justify;
+    color: #D97236;
+    font-weight: 600;
+    margin-right: 1em;
+}
+
+
+#presentacion h1 {
+    color:#D97236;
+    background-color: #F2C53D ;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    padding: 0.5em;
+}
+
+article{
+    margin-right: 0.5em;
+}
+
+article h3{
+    margin-left: 5px;
+    color: #F2D16D;
+    font-weight: bold;
+}
+
+#presentacion h2{
+    background-color: #F2DBAE;
+    text-align: center;
+    margin: auto;
+    padding: 0.9em;
+}
+
+header h2{
+    background-color: #F2E74B;
+    padding: 0.3em;
+}
