@@ -21,6 +21,7 @@ li{
     color: #D97236;
     font-weight: 600;
     margin-right: 1em;
+    line-height: 1.6em;
 }
 
 
@@ -53,4 +54,5 @@ article h3{
 header h2{
     background-color: #F2E74B;
     padding: 0.3em;
+    text-align: center;
 }
